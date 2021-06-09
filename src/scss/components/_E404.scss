@@ -1,0 +1,33 @@
+.E404 {
+  color: gray;
+  &__wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+  }
+
+  &__icon {
+    font-size: 220px;
+    line-height: 0;
+  }
+
+  &__text {
+    font-size: 60px;
+  }
+
+  &__descr {
+    font-size: 18px;
+    margin-top: 20px;
+
+    &-back {
+      color: $main-color;
+      border-bottom: 1px dashed $main-color;
+
+      &:hover {
+        border: none;
+      }
+    }
+  }
+}

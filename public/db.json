@@ -1,0 +1,117 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "type": "phone",
+      "name": "Смартфон SAMSUNG Galaxy S21 Ultra",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6653964.jpg",
+      "price": 37999,
+      "maxAmount": 8
+    },
+    {
+      "id": 1,
+      "type": "phone",
+      "name": "Смартфон APPLE iPhone 11",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6631212.jpg",
+      "price": 23999,
+      "maxAmount": 2
+    },
+    {
+      "id": 2,
+      "type": "phone",
+      "name": "Смартфон XIAOMI Mi 11 Lite",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6670846.jpg",
+      "price": 9499,
+      "maxAmount": 15
+    },
+    {
+      "id": 3,
+      "type": "phone",
+      "name": "Смартфон HUAWEI P Smart",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6659071.jpg",
+      "price": 4999,
+      "maxAmount": 12
+    },
+    {
+      "id": 4,
+      "type": "phone",
+      "name": "Смартфон HUAWEI Mate Xs",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6580767.jpg",
+      "price": 49999,
+      "maxAmount": 8
+    },
+    {
+      "id": 5,
+      "type": "phone",
+      "name": "Смартфон SAMSUNG Galaxy Z Flip",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6548321.jpg",
+      "price": 32999,
+      "maxAmount": 8
+    },
+    {
+      "id": 6,
+      "type": "laptop",
+      "name": "Ноутбук LENOVO IdeaPad 3 Gaming",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6635255.jpg",
+      "price": 21599,
+      "maxAmount": 10
+    },
+    {
+      "id": 7,
+      "type": "laptop",
+      "name": "Ноутбук PRESTIGIO SmartBook 133 C4",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6652510.jpg",
+      "price": 9499,
+      "maxAmount": 12
+    },
+    {
+      "id": 8,
+      "type": "laptop",
+      "name": "Ноутбук APPLE MacBook Pro",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6606025.jpg",
+      "price": 95999,
+      "maxAmount": 3
+    },
+    {
+      "id": 9,
+      "type": "laptop",
+      "name": "Ноутбук ACER Nitro 5",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6616839.jpg",
+      "price": 27999,
+      "maxAmount": 8
+    },
+    {
+      "id": 10,
+      "type": "laptop",
+      "name": "Ноутбук DELL Inspiron G7",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6531010.jpg",
+      "price": 78599,
+      "maxAmount": 8
+    },
+    {
+      "id": 11,
+      "type": "screen",
+      "name": "Монитор SAMSUNG LS24R356FHIXCI",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6613136.jpg",
+      "price": 3599,
+      "maxAmount": 12
+    },
+    {
+      "id": 12,
+      "type": "screen",
+      "name": "Монитор ASUS VZ249HE",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6370402.jpg",
+      "price": 3899,
+      "maxAmount": 8
+    },
+    {
+      "id": 13,
+      "type": "screen",
+      "name": "Монитор PHILIPS 558M1RY/00",
+      "imgUrl": "https://i1.foxtrot.com.ua/product/thumb/6625871.jpg",
+      "price": 45079,
+      "maxAmount": 3
+    }
+  ],
+  "cart": []
+}

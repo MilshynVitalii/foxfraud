@@ -1,0 +1,59 @@
+.footer {
+  background-color: #0c061a;
+  margin-top: 50px;
+  color: rgba(255, 255, 255, 0.5);
+  padding: 50px 0;
+
+  &__wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  &__col {
+    width: calc(100% / 12 * 3);
+    padding: 15px;
+
+    &-logo {
+      color: $main-color;
+      margin-bottom: 20px;
+    }
+
+    &-descr {
+      display: block;
+      margin: 15px 0;
+    }
+
+    &-phone,
+    &-mail,
+    &-time {
+      color: white;
+
+      &:hover:not(.footer__col-time) {
+        color: #825dc7;
+        text-decoration: underline;
+      }
+    }
+
+    &-phone {
+      font-size: 24px;
+      color: #825dc7;
+    }
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .footer__col {
+    width: calc(100% / 12 * 4);
+  }
+
+  .footer__logo {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .footer__col {
+    width: calc(100% / 12 * 12);
+  }
+}
