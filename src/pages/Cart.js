@@ -38,7 +38,7 @@ function Cart() {
             <div className="cart__aside-products">
               {
                 itemsAmount ?
-                  `В корзине ${itemsAmount} ${declention(itemsAmount, [
+                  `В корзине ${products.length} ${declention(products.length, [
                     'товаров',
                     'товара',
                     'товар'
