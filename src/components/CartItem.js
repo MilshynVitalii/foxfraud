@@ -45,8 +45,8 @@ function CartItem({
         src={imgUrl}
         alt="product-image"
         className="cart__product-img"
-        width="100px"
-        height="100px" />
+        width="100"
+        height="100" />
       <div className="cart__product-wrap">
         <a
           href="#"

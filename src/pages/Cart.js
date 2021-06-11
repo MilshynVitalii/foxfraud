@@ -68,8 +68,8 @@ function Cart() {
                   src="./assets/img/cute-fox.png"
                   alt="fox-image"
                   className="cart__main-empty-logo"
-                  width="100px"
-                  height="100px"
+                  width="100"
+                  height="100"
                 />
                 <div>В корзине нет товаров</div>
                 <div>

@@ -24,8 +24,8 @@ function ProductItem({id, imgUrl, name, price}) {
     <div className="products__item">
       <img
         src={imgUrl}
-        width="160px"
-        height="160px"
+        width="160"
+        height="160"
         alt="product-image"
         className="products__item-img" />
       <a href="#" className="products__item-name">{name}</a>

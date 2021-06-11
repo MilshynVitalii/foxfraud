@@ -34,8 +34,8 @@ function HeartItem({
         src={imgUrl}
         alt="product-image"
         className="header__heart-item-img"
-        width="100px"
-        height="100px" />
+        width="100"
+        height="100" />
       <a
         href="#"
         className="header__heart-item-name"
